@@ -33,7 +33,7 @@ public class Variable {
 		// 4. 특수문자는 _ , $ 만 허용한다.
 //		int _name; (O)
 //		int $name; (O)
-//		int na_me$; (O)
+//		int na_me$; (O)dd
 		
 	} // end of main
 
